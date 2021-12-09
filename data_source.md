@@ -11,3 +11,5 @@
 [Digital City Map](https://data.cityofnewyork.us/City-Government/Digital-City-Map-Shapefile/m2vu-mgzw)
 ### POIs data
 [Open Street Map]{https://download.geofabrik.de/north-america/us/new-york.html)
+### COVID-19 data
+[NYC health](https://github.com/nychealth/coronavirus-data/blob/master/trends/caserate-by-modzcta.csv)
